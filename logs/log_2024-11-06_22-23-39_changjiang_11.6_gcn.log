@@ -1,0 +1,113 @@
+2024-11-06 22:23:39.914 | INFO     | __main__:main:139 - {'remote': False, 'device': 0, 'epochs': 200, 'seed': 42, 'batch_size': 4, 'filename': 'changjiang', 'train_ratio': 0.6, 'valid_ratio': 0.2, 'his_length': 12, 'pred_length': 12, 'num_layers': 1, 'lr': 0.0001, 'step_size': 1, 'hidden_dim': 64, 'back': 3, 'thres': 0.005, 'station': 'train', 'log': 'FALSE'}
+2024-11-06 22:33:50.872 | INFO     | __main__:main:192 - =====Epoch 1=====
+
+##on train data## total loss: 0.20500960057130943, pred loss: 0.10575942345599403, regression loss: 0.0992501771153154 
+##on train data## rmse loss: 2530.5909821176288, mae loss: 1375.1754631391032, mape loss: 9179.438251298545
+##on valid data## rmse loss: 2088.3755713503333, mae loss: 1320.3036004143792, mape loss: 1194.785354421636
+##on test data## rmse loss: 2272.637843422908, mae loss: 1441.3297438455825, mape loss: 468.151902703705
+
+2024-11-06 22:43:58.906 | INFO     | __main__:main:192 - =====Epoch 2=====
+
+##on train data## total loss: 0.0679876952038234, pred loss: 0.051486613976309395, regression loss: 0.016501081227514005 
+##on train data## rmse loss: 2029.1562632449388, mae loss: 1055.7581340189513, mape loss: 1959.3964252072542
+##on valid data## rmse loss: 1624.004578697175, mae loss: 1007.1127734092212, mape loss: 439.0918272112327
+##on test data## rmse loss: 1853.517926072522, mae loss: 1142.1005908273821, mape loss: 302.7295747894118
+
+2024-11-06 22:54:05.943 | INFO     | __main__:main:192 - =====Epoch 3=====
+
+##on train data## total loss: 0.049582515365437035, pred loss: 0.043158770852102034, regression loss: 0.006423744513334997 
+##on train data## rmse loss: 1944.1567176392841, mae loss: 1036.0699090715593, mape loss: 1589.2781415944778
+##on valid data## rmse loss: 1584.3071806329558, mae loss: 981.7462929979714, mape loss: 433.4939075310258
+##on test data## rmse loss: 1788.9466714159403, mae loss: 1109.7175694763891, mape loss: 381.3492611108139
+
+2024-11-06 23:04:10.398 | INFO     | __main__:main:192 - =====Epoch 4=====
+
+##on train data## total loss: 0.04658417497627995, pred loss: 0.04138692236364509, regression loss: 0.0051972526126348555 
+##on train data## rmse loss: 1906.7537006436266, mae loss: 975.1410617150631, mape loss: 2189.1131690386587
+##on valid data## rmse loss: 1515.6108760170955, mae loss: 923.1574747682077, mape loss: 259.94137721747506
+##on test data## rmse loss: 1719.545145159983, mae loss: 1052.1739431256033, mape loss: 310.9276650034783
+
+2024-11-06 23:14:10.961 | INFO     | __main__:main:192 - =====Epoch 5=====
+
+##on train data## total loss: 0.04485227731437668, pred loss: 0.04024996473166594, regression loss: 0.0046023125827107415 
+##on train data## rmse loss: 1898.9529826362725, mae loss: 1041.0183020267389, mape loss: 2001.519900560379
+##on valid data## rmse loss: 1549.731100546347, mae loss: 985.9445985771974, mape loss: 554.7332353861176
+##on test data## rmse loss: 1722.1645883685374, mae loss: 1092.9037389571142, mape loss: 403.47162522519415
+
+2024-11-06 23:24:10.209 | INFO     | __main__:main:192 - =====Epoch 6=====
+
+##on train data## total loss: 0.043803548453485615, pred loss: 0.03956542954917407, regression loss: 0.004238118904311539 
+##on train data## rmse loss: 1860.0483085128863, mae loss: 956.683940248441, mape loss: 1567.0126652165416
+##on valid data## rmse loss: 1489.1597952235159, mae loss: 913.3572094891522, mape loss: 374.37779871768475
+##on test data## rmse loss: 1664.3187641158527, mae loss: 1026.2939602767178, mape loss: 349.2417928104695
+
+2024-11-06 23:34:10.768 | INFO     | __main__:main:192 - =====Epoch 7=====
+
+##on train data## total loss: 0.042552181467860654, pred loss: 0.03856406094852674, regression loss: 0.003988120519333911 
+##on train data## rmse loss: 1958.9686569756057, mae loss: 1102.704025462194, mape loss: 1646.7925354195427
+##on valid data## rmse loss: 1658.2486804387745, mae loss: 1063.2917914077582, mape loss: 461.17375200204407
+##on test data## rmse loss: 1796.8212660859451, mae loss: 1155.0261017199189, mape loss: 371.9736382307693
+
+2024-11-06 23:44:09.637 | INFO     | __main__:main:192 - =====Epoch 8=====
+
+##on train data## total loss: 0.04219613955379818, pred loss: 0.038308450201973036, regression loss: 0.0038876893518251477 
+##on train data## rmse loss: 1862.2415021712404, mae loss: 992.0733701831798, mape loss: 1583.795785964443
+##on valid data## rmse loss: 1520.5886583954211, mae loss: 955.1196809864413, mape loss: 509.6032420238013
+##on test data## rmse loss: 1687.6008782699762, mae loss: 1063.7764503744118, mape loss: 423.56729086876834
+
+2024-11-06 23:54:11.900 | INFO     | __main__:main:192 - =====Epoch 9=====
+
+##on train data## total loss: 0.04155217106028597, pred loss: 0.037778969529874654, regression loss: 0.003773201530411317 
+##on train data## rmse loss: 1838.1840591430664, mae loss: 927.3562862570516, mape loss: 4884.696260953161
+##on valid data## rmse loss: 1504.4232743311113, mae loss: 905.4239063631153, mape loss: 349.6187179475217
+##on test data## rmse loss: 1686.4113226341924, mae loss: 1024.0214509117097, mape loss: 151.1054706216779
+
+2024-11-07 00:04:09.149 | INFO     | __main__:main:192 - =====Epoch 10=====
+
+##on train data## total loss: 0.041174952378514255, pred loss: 0.03749348715248785, regression loss: 0.0036814652260264077 
+##on train data## rmse loss: 1838.761348085355, mae loss: 941.137351679923, mape loss: 7125.685451478523
+##on valid data## rmse loss: 1503.279034588788, mae loss: 915.4558844842505, mape loss: 524.5331650477578
+##on test data## rmse loss: 1673.5112455507963, mae loss: 1021.8837731556542, mape loss: 218.2014314594416
+
+2024-11-07 00:14:08.035 | INFO     | __main__:main:192 - =====Epoch 11=====
+
+##on train data## total loss: 0.040920766064871175, pred loss: 0.0373409708302687, regression loss: 0.003579795234602478 
+##on train data## rmse loss: 1827.7009645258715, mae loss: 931.1558282532668, mape loss: 6135.028555800164
+##on valid data## rmse loss: 1495.7725973828879, mae loss: 907.4692281480001, mape loss: 544.0846552374741
+##on test data## rmse loss: 1662.875105456496, mae loss: 1016.5325654372285, mape loss: 215.85855759593971
+
+2024-11-07 00:24:06.043 | INFO     | __main__:main:192 - =====Epoch 12=====
+
+##on train data## total loss: 0.04006401400039265, pred loss: 0.03661586421291532, regression loss: 0.0034481497874773322 
+##on train data## rmse loss: 1797.671917290857, mae loss: 933.6844875897248, mape loss: 2397.96939256984
+##on valid data## rmse loss: 1471.1110535846253, mae loss: 900.6998041808375, mape loss: 195.19660432596464
+##on test data## rmse loss: 1622.4247325764659, mae loss: 1002.5461111179189, mape loss: 204.620367397903
+
+2024-11-07 00:34:04.095 | INFO     | __main__:main:192 - =====Epoch 13=====
+
+##on train data## total loss: 0.04020098006210365, pred loss: 0.03678005568471591, regression loss: 0.0034209243773877488 
+##on train data## rmse loss: 1805.7745431425608, mae loss: 907.4202087324888, mape loss: 2109.125437791729
+##on valid data## rmse loss: 1466.028344231683, mae loss: 881.0218782756319, mape loss: 204.69000076580232
+##on test data## rmse loss: 1629.347130499291, mae loss: 988.9144822050706, mape loss: 239.88751698875058
+
+2024-11-07 00:44:01.200 | INFO     | __main__:main:192 - =====Epoch 14=====
+
+##on train data## total loss: 0.0395367216281321, pred loss: 0.03622731493573534, regression loss: 0.0033094066923967597 
+##on train data## rmse loss: 1850.2527286510176, mae loss: 927.7102336205807, mape loss: 4030.26576762272
+##on valid data## rmse loss: 1517.30360112135, mae loss: 909.5137905282863, mape loss: 355.9863434277446
+##on test data## rmse loss: 1699.2228782388695, mae loss: 1023.8184915196481, mape loss: 177.37223860955146
+
+2024-11-07 00:54:03.339 | INFO     | __main__:main:192 - =====Epoch 15=====
+
+##on train data## total loss: 0.039141196529156416, pred loss: 0.03582680345296347, regression loss: 0.003314393076192952 
+##on train data## rmse loss: 1785.9841630035246, mae loss: 916.4816888334788, mape loss: 2267.8536095632817
+##on valid data## rmse loss: 1478.4186016068036, mae loss: 898.3595505644456, mape loss: 204.57954776102972
+##on test data## rmse loss: 1638.012169561791, mae loss: 1002.931658770587, mape loss: 166.21557425232928
+
+2024-11-07 01:04:01.558 | INFO     | __main__:main:192 - =====Epoch 16=====
+
+##on train data## total loss: 0.03901607073225355, pred loss: 0.03571691089862651, regression loss: 0.0032991598336270427 
+##on train data## rmse loss: 1780.2746452292815, mae loss: 911.6252999087881, mape loss: 3068.436672183009
+##on valid data## rmse loss: 1531.8016521792615, mae loss: 916.591134384332, mape loss: 194.03204520926974
+##on test data## rmse loss: 1681.6586859861395, mae loss: 1027.2916976162826, mape loss: 214.46972844338325
+

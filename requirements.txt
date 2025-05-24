@@ -1,0 +1,11 @@
+dgl==2.2.1+cu118
+dgl==0.9.1.post1
+einops==0.8.1
+fastdtw==0.3.4
+loguru==0.7.2
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+torch==2.3.0+cu118
+tqdm==4.66.4

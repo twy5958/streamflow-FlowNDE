@@ -1,0 +1,1 @@
+cd model && python run_model.py --batch-size=4
